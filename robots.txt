@@ -1,0 +1,4 @@
+Disallow: /resources/
+Disallow: /resources
+Disallow: /panel/
+Disallow: /panel

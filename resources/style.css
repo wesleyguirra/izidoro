@@ -1,0 +1,222 @@
+body {
+    background-image: url(images/leather_1.png)
+}
+
+#logo {
+    margin: 0 auto;
+    width: 360px;
+}
+
+#logo img {
+    width: 360px;
+    height: 120px;
+}
+
+#menu {
+    margin: 0 auto;
+    width: 600px;
+    height: 50px;
+}
+
+#menu ul {
+    text-align: center;
+}
+
+#menu ul li {
+    display: inline;
+    font-family: 'Great Vibes',cursive;
+    font-size: 30pt;
+    padding: 0 15px;
+    color: #3d2f22;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    font-family: 'Great Vibes',cursive;
+    font-size: 30pt;
+    color: #3d2f22;
+}
+
+#menu ul li a:hover {
+    text-decoration: none;
+    color: #c98e3e;
+}
+
+#menu ul li a:active {
+    text-decoration: none;
+    color: #c98e3e;
+}
+
+#sanduba {
+    position: relative;
+    margin: 0 auto;
+    width: 700px;
+    height: 500px;
+
+}
+
+#sanduba img {
+    padding-top: 20px; 
+    width: 100%;
+}
+
+#encomenda {
+    position: relative;
+    margin: 0 auto;
+    width: 800px;
+
+}
+
+#encomenda h1 {
+    font-family: 'Great Vibes',cursive;
+    font-size: 40px;
+    color: #3d2f22;
+    font-weight: normal;
+    text-align: center;
+}
+
+.return {
+    width: 50px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    color: #c98e3e;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+form {
+    width: 400px;
+    margin: 0 auto;
+}
+
+input, textarea {
+	padding: 5px 0 5px 10px;
+    margin: 5px 0;
+	border: 1px solid #E5E5E5;
+    border-radius: 5px;
+	width: 400px;
+    height: 40px;
+	color: #b1ada6;
+	box-shadow: inset rgba(0, 0, 0, 0.1) 0px 0px 15px 2px;
+	-moz-box-shadow: inset rgba(0, 0, 0, 0.1) 0px 0px 15px 2px;
+	-webkit-box-shadow: inset rgba(0, 0, 0, 0.1) 0px 0px 15px 2px;
+    background-color: #e4e3dc;
+    font-family: 'Great Vibes', cursive;
+    font-size: 18px;
+    resize: none;
+}
+
+textarea {
+    height: 120px;
+}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+    outline: none;
+	border: 1px solid #c98e3e;
+	box-shadow: inset rgba(0, 0, 0, 0.1) 0px 0px 15px 2px;
+	-moz-box-shadow: inset rgba(0, 0, 0, 0.1) 0px 0px 15px 2px;
+	-webkit-box-shadow: inset rgba(0, 0, 0, 0.1) 0px 0px 15px 2px;
+}
+
+
+.botao {
+    float: right;
+	width: 100px; 
+	height: 40px;
+	background-color: #c98e3e; 
+	color: #FFF;
+    border: 0px;
+	border-radius: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+    font-size: 18px;
+}
+
+.botao:hover {
+	background-color: #3d2f22; 
+}
+
+#sobre p {
+    font-family: 'Great Vibes',cursive;
+    color: #c98e3e;
+    font-size: 30pt;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    width: 645px;
+    padding-top: 100px;
+}
+
+#cardapio p {
+    font-family: 'Great Vibes',cursive;
+    color: #c98e3e;
+    font-size: 30pt;
+    text-align: center;
+    margin: 150px 0 0 -322px;
+    position: relative;
+    width: 645px;
+    top: 50%;
+    left: 50%;
+}
+
+#contato p {
+    font-family: 'Great Vibes',cursive;
+    color: #c98e3e;
+    font-size: 30pt;
+    text-align: center;
+    margin: 0 auto;
+    width: 645px;
+    padding-top: 100px;
+}
+
+#mapa {        
+    border: 3px solid #c98e3e;
+    width:100%;
+    height: 300px;
+    margin: 0 auto;     
+}
+
+
+#rodape {
+    margin: 0 auto;
+    width: 700px;
+    padding: 10px;
+    padding-top: 100px;: 
+}
+
+#rodape img {
+    float: right;
+    width: 180px;
+    margin: -50px 0 0 80%
+}
+
+#rodape h2 {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #3d2f22;
+    margin:  0 0 0 45px;
+    width: 470px
+}
+
+#rodape ul li {
+    display: inline;
+    position: relative;
+    margin: 5px 5px 5px 5px;
+    width: 100px;
+    height: 30px;
+    text-decoration: none;
+}
+
+#rodape ul li a {
+    font-family: 'Great Vibes';
+    font-size: 20px;
+    color: #3d2f22;
+    text-decoration: none;
+}
+
+#rodape ul li a:hover {
+    font-weight: bold;
+    text-decoration: none;
+}

@@ -1,0 +1,208 @@
+#index{
+	width:600px;
+	height:350px;
+	border:2px solid #999;
+	padding:5px;
+	margin-left:25%;
+	background:#EAEAEA;
+}
+#index .retorno{
+	font:18px Verdana, Geneva, sans-serif;
+	color:#333;
+	padding:5px;
+	text-align:center;
+	border:1px solid #CCC;
+	background:#FFFFF2;
+}
+#index .retorno a{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#069;
+	text-align:center;
+	text-decoration:none;
+}
+#index .retorno a:hover{
+	color: #000;
+	border:1px solid #3F0;
+	padding:5px;
+}
+#index fieldset{
+	width:300px;
+	font:18px Verdana, Geneva, sans-serif;
+	color:#666;
+	padding:5px;
+	margin-left:25%;
+}
+#index span{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#333;
+	padding:5px;
+	display:block;
+}
+#index input{
+	width:280px;
+	padding:5px;
+	font:14px Verdana, Geneva, sans-serif;
+	color:#999;
+	display:block;
+}
+#index .btn{
+	width:80px;
+	font:14px Arial, Helvetica, sans-serif;
+	color:#333;
+	margin-top:10px;
+}
+#index .btn:hover{
+	color:#069;
+}
+#index .link{
+	margin-top:15px;
+	text-align:center;
+	padding:5px;
+	text-align:center;
+}
+#index .link a{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-decoration:none;
+	padding:15px;
+	text-shadow:2px 2px 2px #FFF;
+}
+#index .link a:hover{
+	color:#069;
+	border:1px solid #F0FFF0;
+	padding:3px;
+}
+#cadastro{
+	width:400px;
+	border:1px solid #666;
+	background: #FFFFEA;
+	margin-left:30%;
+	padding:30px;
+}
+#cadastro fieldset{
+	width:340px;
+	padding:15px;
+	margin:15px;
+	font:18px Verdana, Geneva, sans-serif;
+	color:#666;
+	background:#F3F3F3;
+	text-shadow:2px 2px 2px #fff;
+}
+#cadastro span{
+	font: 14px Arial, Helvetica, sans-serif;
+	color:#333;
+	padding:5px;
+	display:block;
+}
+#cadastro input{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#999;
+	padding:5px;
+	width:310px;
+}
+#cadastro .btn{
+	width:80px;
+	font:14px Arial, Helvetica, sans-serif;
+	color:#333;
+	margin-top:10px;
+}
+#cadastro .btn:hover{
+	color:#069;
+}
+#cadastro .voltar{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#069;
+	text-align:center;
+}
+#cadastro .voltar a{
+	text-decoration:none;
+}
+#cadastro .error{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#F00;
+	padding:5px;
+	display:block;
+}
+#painel{
+	width:800px;
+	border:2px solid #666;
+	padding:40px;
+	background:#F3F3F3;
+	margin-left:15%;
+}
+#painel h1{
+	font:30px Arial, Helvetica, sans-serif;
+	color:#069;
+	text-align:center;
+	border:1px solid #666;
+	background:#FFFFEC;
+	padding:30px;
+}
+#painel p{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#069;
+	text-align:center;
+}
+#painel a{
+	text-decoration:none;
+}
+#recuperar{
+	width:500px;
+	border:1px solid #666;
+	padding:10px;
+	margin-left:30%;
+	background:#EBEBEB;
+}
+#recuperar fieldset{
+	padding:40px 20px;
+	background:#FFFFF2;
+}
+#recuperar span{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#333;
+	padding:5px;
+}
+#recuperar input{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#999;
+	padding:5px;
+	width:320px;
+}
+#recuperar .btn{
+	width:70px;
+	font:14px Arial, Helvetica, sans-serif;
+}
+#recuperar .error{
+	font:14px Arial, Helvetica, sans-serif;
+	color:#F00;
+	padding:5px;
+	display:block;
+}
+#recuperar .dados{
+	font:16px Arial, Helvetica, sans-serif;
+	color:#069;
+	padding:5px; 0;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
